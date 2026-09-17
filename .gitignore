@@ -1,0 +1,17 @@
+_common/UacDisablePayload.exe
+*.exe
+*.poc_backup
+poc_uac_proof.txt
+poc_uac_registry_backup.txt
+poc_01_tavern.txt
+Thumbs.db
+Desktop.ini
+.vs/
+.idea/
+*.user
+*.suo
+.env
+.env.*
+*.pem
+*.key
+credentials.json
